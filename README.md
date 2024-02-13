@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rochak24
+- 👋 Hi, I’m @Rochak
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on python crash course 2nd edition by eric matthes
 - 📫 How to reach me rochakdahal86@gmail.com
 
 <!---
