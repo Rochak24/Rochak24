@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rochak
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python 3
+- 👀 I’m interested in Database and Game Design
+- 🌱 I’m currently learning python and C#
 - 📫 How to reach me rochakdahal86@gmail.com
 
 <!---
