@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rochak
-- 👀 I’m interested in Database and Game Design
+- 👀 I’m interested in SQL and Game Design
 - 🌱 I’m currently learning python and C#
 - 📫 How to reach me rochakdahal86@gmail.com
 
